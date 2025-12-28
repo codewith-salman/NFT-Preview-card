@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="NFT Preview Card Logo" width="120" />
-
-<br /><br />
-
 ## 💎 NFT Preview Card  
 A sleek, minimal, and responsive **NFT Preview Card UI Component** built using HTML and CSS.  
 Designed to display NFT artwork, pricing, and creator details with a modern Web3-inspired aesthetic.
@@ -19,7 +14,7 @@ Designed to display NFT artwork, pricing, and creator details with a modern Web3
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="NFT%20Preview%20Card/assets/images/desktop-preview.jpg" alt="NFT Preview Card Desktop View" width="100%" />
+<img src="NFT%20Preview%20Card/images/desktop-preview.jpg" alt="NFT Preview Card Desktop View" width="100%" />
 
 The **NFT Preview Card** is a clean and visually striking UI component created for NFT marketplaces and crypto-based platforms.  
 It focuses on presenting digital assets in a compact card format with strong visual hierarchy and elegant hover interactions.
