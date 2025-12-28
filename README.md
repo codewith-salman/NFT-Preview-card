@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 ## 💎 NFT Preview Card  
@@ -37,8 +36,7 @@ Perfect for:
 - Clean and modern Web3 design  
 - Hover overlay and interaction effects  
 - Clear price and creator information  
-- Lightweight and reusable component  
-- Easy to customize and extend  
+- Lightweight and reusable component   
 
 ---
 
