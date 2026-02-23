@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="NFT%20Preview%20Card/images/desktop-preview.jpg" alt="NFT Preview Card Logo" width="120"/>
+<img src="NFT%20Preview%20Card/images/favicon-32x32.png" alt="NFT Preview Card Logo" width="120"/>
 
 <br />
 <br />
