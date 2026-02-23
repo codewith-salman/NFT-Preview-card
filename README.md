@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="NFT%20Preview%20Card/images/favicon-32x32.png" alt="NFT Preview Card Logo" width="60"/>
-
-<br />
-<br />
-
 <h1 align="center">💎 NFT Preview Card</h1>
 
 A sleek, minimal, and responsive **NFT Preview Card UI Component** built using **HTML and CSS**.  
