@@ -55,7 +55,6 @@ Ideal for:
 - NFT marketplace UI components  
 - Crypto and blockchain platforms  
 - Digital art previews  
-- UI component libraries  
 - Frontend practice projects  
 ---
 
