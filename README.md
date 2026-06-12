@@ -63,8 +63,7 @@ Ideal for:
 - Responsive NFT card layout  
 - Clean and modern Web3-inspired design  
 - Hover overlay and interaction effects  
-- Clear price and creator information  
-- Lightweight and reusable component  
+- Clear price and creator information 
 
 ---
 
