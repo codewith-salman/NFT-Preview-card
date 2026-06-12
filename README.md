@@ -57,9 +57,6 @@ Ideal for:
 - Digital art previews  
 - UI component libraries  
 - Frontend practice projects  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -70,16 +67,12 @@ Ideal for:
 - Clear price and creator information  
 - Lightweight and reusable component  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
