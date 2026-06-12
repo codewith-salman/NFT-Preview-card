@@ -54,7 +54,6 @@ It’s an excellent example of minimalist design tailored for Web3 and blockchai
 Ideal for:
 - NFT marketplace UI components  
 - Crypto and blockchain platforms  
-- Digital art previews  
 - Frontend practice projects  
 ---
 
